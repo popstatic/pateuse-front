@@ -1,3 +1,3 @@
 # pateuse
 
-Partie front react d'un reseau social pour groupe d'amis
+Partie front react-native + expo d'un reseau social pour groupe d'amis
